@@ -18,7 +18,7 @@
 "birthday1":{"name":"凝凝", "birthday":"r2001-09-19"},
 "love_date":"2021-06-06",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "凝凝宝贝每天都要开开心心，美美丽丽",
+"note_ch": "我和微笑宝宝，卖煤咯宝宝一起希望凝凝宝贝每天开开心心，美美丽丽！！",
 # 金句英文
-"note_en": "i love u every day"
+"note_en": "i love u every day♥♥♥"
 }
